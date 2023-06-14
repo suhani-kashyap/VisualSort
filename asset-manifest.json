@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VisualSort/static/css/main.24e7d87a.css",
+    "main.js": "/VisualSort/static/js/main.15e716be.js",
+    "static/js/787.9217d524.chunk.js": "/VisualSort/static/js/787.9217d524.chunk.js",
+    "static/media/logo.svg": "/VisualSort/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VisualSort/index.html",
+    "main.24e7d87a.css.map": "/VisualSort/static/css/main.24e7d87a.css.map",
+    "main.15e716be.js.map": "/VisualSort/static/js/main.15e716be.js.map",
+    "787.9217d524.chunk.js.map": "/VisualSort/static/js/787.9217d524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e7d87a.css",
+    "static/js/main.15e716be.js"
+  ]
+}

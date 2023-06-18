@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Visit Project at (https://suhani-kashyap.github.io/VisualSort/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
